@@ -115,7 +115,7 @@ nav ul a {
 }
 
 #s02 {
-    height: 100vh;
+    height: auto;
     padding: 200px 0;
     background: url(../img/bgimg2.jpg) no-repeat center/cover;
     min-height: auto;
@@ -167,7 +167,6 @@ nav ul a {
 }
 
 #s03 {
-    height: 100vh;
     padding: 200px 0;
 
 }
@@ -196,6 +195,7 @@ nav ul a {
 }
 
 #s04 {
+    height: auto;
     padding: 200px 0;
     min-height: auto;
 }
@@ -233,6 +233,9 @@ nav ul a {
 
 .s04-list li:nth-child(even) {
     margin-top: 60px;
+}
+footer{
+    height: auto;
 }
 
 footer .inner {
